@@ -260,7 +260,7 @@ const Finisher = () => <section className="pb-20 relative block bg-black">
           Business Queries
         </h2>
         <p className="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
-          For business queries and contacts, please reach out to our dedicated team at Remine. Were always open to partnerships, collaborations, and any other inquiries related to our company. Let us know how we can work together to create meaningful solutions for our customers.
+          Fore business queries and contacts, please reach out to our dedicated team at Remine. Were always open to partnerships, collaborations, and any other inquiries related to our company. Let us know how we can work together to create meaningful solutions for our customers.
         </p>
       </div>
     </div>
