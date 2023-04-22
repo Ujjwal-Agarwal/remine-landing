@@ -51,7 +51,7 @@ const Services = () => <section className="pb-20 bg-white -mt-24">
               Sustainability
             </h6>
             <p className="mt-2 mb-4 text-gray-600">
-              Remine India's focus on sustainability is evident in their commitment to recycling electronic waste and lithium batteries, which helps reduce the amount of hazardous waste in the environment. By utilizing cutting-edge technology, we are able to extract valuable materials while minimizing harm to the planet. This dedication to sustainability is central to our mission and values.
+              Remine Indias focus on sustainability is evident in their commitment to recycling electronic waste and lithium batteries, which helps reduce the amount of hazardous waste in the environment. By utilizing cutting-edge technology, we are able to extract valuable materials while minimizing harm to the planet. This dedication to sustainability is central to our mission and values.
             </p>
           </div>
         </div>
@@ -221,7 +221,7 @@ const Featured = () => <section className="relative py-20">
               <div className="flex items-center">
                 <div>
                   <span className="text-2xl font-semibold inline-block py-1 px-2 uppercase rounded-full text-white bg-black mr-3">
-                    <i class="fa-solid fa-charging-station"></i>
+                    <i className="fa-solid fa-charging-station"></i>
                   </span>
                 </div>
                 <div>
@@ -260,7 +260,7 @@ const Finisher = () => <section className="pb-20 relative block bg-black">
           Business Queries
         </h2>
         <p className="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
-          For business queries and contacts, please reach out to our dedicated team at Remine. We're always open to partnerships, collaborations, and any other inquiries related to our company. Let us know how we can work together to create meaningful solutions for our customers.
+          For business queries and contacts, please reach out to our dedicated team at Remine. Were always open to partnerships, collaborations, and any other inquiries related to our company. Let us know how we can work together to create meaningful solutions for our customers.
         </p>
       </div>
     </div>
